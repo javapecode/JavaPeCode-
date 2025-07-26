@@ -33,7 +33,7 @@
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-ku/)
-- 📧 Email: rakesh.srit2018@gmail.com
+- 📧 Email: javapecode@gmail.com
 - 🌐 [YouTube](https://www.youtube.com/@JavaPeCode)
 
 > 🙌 Thanks for visiting! Don’t forget to ⭐ star the repositories and follow me for future updates.
